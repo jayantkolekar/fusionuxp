@@ -1,6 +1,6 @@
 [
 	{
-		"appRegKy":13,
+		"appRegKy":"13",
 		"appName":"GPPTEST",
 		"appDesc":"GPPTEST",
 		"appKey":"syaZbU",
@@ -13,7 +13,7 @@
 		"brd":"BROADCAST"
 	},
 	{
-		"appRegKy":14,
+		"appRegKy":"14",
 		"appName":"CLS",
 		"appDesc":"CLS",
 		"appKey":"JCiouX",
