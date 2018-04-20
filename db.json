@@ -2,7 +2,7 @@
 "posts":[
 	{
 		"appRegKy":13,
-		"appName":"GPPTEST",
+		"name":"GPPTEST",
 		"appDesc":"GPPTEST",
 		"appKey":"syaZbU",
 		"privateKey":"5h6zaEpZC7WX",
@@ -15,7 +15,7 @@
 	},
 	{
 		"appRegKy":14,
-		"appName":"CLS",
+		"name":"CLS",
 		"appDesc":"CLS",
 		"appKey":"JCiouX",
 		"privateKey":"UDL5ZyCnurPF",
